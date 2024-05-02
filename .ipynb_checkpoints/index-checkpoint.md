@@ -11,17 +11,16 @@ I am an awesome student at Lehigh, you should hire me!
 </p>
 
 ---
+
 ## Portfolio
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Exploring Financial Risk through NLP of 10-K Reports](Desktop/Fin%20377/asgn-05-JinyiXu/report.ipynb)**_
+_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
 
-This report delves into identifying and analyzing risk factors in 10-K filings using advanced natural language processing techniques. The analysis provides a deep understanding of the latent risks embedded within financial disclosures, showcasing the potential of NLP to transform traditional financial analysis.
+You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="Desktop/Fin 377/asgn-05-JinyiXu/scatter_plot.png?raw=true"/>
----
-
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
