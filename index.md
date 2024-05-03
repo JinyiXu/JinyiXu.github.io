@@ -19,7 +19,7 @@ _**[Fin377-NLP of 10-K Reports Project](report.md)**_
 
 This report delves into identifying and analyzing risk factors in 10-K filings using advanced natural language processing techniques. The analysis provides a deep understanding of the latent risks embedded within financial disclosures, showcasing the potential of NLP to transform traditional financial analysis.
 
-<img src="images/2024-05-02 202059.png"/>
+<img src="images/scatter_plot.png"/>
 
 ---
 
