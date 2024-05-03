@@ -100,7 +100,7 @@ print(correlation_with_ret_t2)
 | Risk_negative_regex_score   | 0.016965         | -0.061530        |
 
 - Scatter Plot
-![Scatter Plot of Sentiment Measures against Return Measures](scatter_plot.png)
+<img src="scatter_plot.png"/>
 
 - Four Discussion Topics
 1. 
