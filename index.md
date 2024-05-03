@@ -6,11 +6,8 @@ My name is Jinyi Xu, and I am currently a senior at Lehigh University, pursuing 
 
 In my free time, I enjoy singing and dancing. I joined the Lehigh University Choir in my freshman year and have participated in several dance clubs throughout my time at Lehigh.
 
-
-<!-- Upload your own photo and change the path -->
-
 <p style="text-align:center;">
-  <img class="img-circle" src="picture1.jpg" width="50%">
+  <img class="img-circle" src="images/Picture1.jpg" width="50%">
 </p>
 
 ---
