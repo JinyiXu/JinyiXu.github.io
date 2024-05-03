@@ -1,13 +1,16 @@
 ## About Me
 
-What's up? hey\|you
+Nice to meet you!
 
-I am an awesome student at Lehigh, you should hire me!
+My name is Jinyi Xu, and I am currently a senior at Lehigh University, pursuing dual degrees in finance and mathematics. I have been actively involved in various projects that enhance my data analysis skills in Lehigh University. In 2022, I also had the opportunity to intern at KPMG China as a technical consultant.
+
+In my free time, I enjoy singing and dancing. I joined the Lehigh University Choir in my freshman year and have participated in several dance clubs throughout my time at Lehigh.
+
 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="picture1.jpg" width="50%">
 </p>
 
 ---
