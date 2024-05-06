@@ -31,7 +31,7 @@ This assignment progressively explores machine learning, beginning with foundati
 
 ---
 
-_**[Eventual team project]**_
+_**[Eventual team project](Machine Learning Practice.md)**_
 
 To be updated
 
