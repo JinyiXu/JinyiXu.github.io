@@ -2,14 +2,13 @@ title: Jinyi Xu # your name (or website title) here
 logo: "images/Picture1.jpg" # your photo (or logo) here
 description: >
   I am a senior at Lehigh University, majoring in Mathematics and Finance, with extensive modeling experience in statistical analysis, financial modeling, and data visualization. My background has refined my quantitative, coding, and problem-solving skills for tackling complex financial challenges.
-<br><br>
+
 links:
-  - name: LinkedIn
+  - name: "LinkedIn"
     url: "https://www.linkedin.com/in/jinyi-xu-b55647232/"
-  - name: Resume
+  - name: "Resume"
     url: "pdf/Resume_Xu_Jinyi.pdf"
-  - name: GitHub
+  - name: "GitHub"
     url: "https://www.GitHub.com/JinyiXu/"
 
-theme: jekyll-theme-minimal
-
+theme: "jekyll-theme-minimal"
