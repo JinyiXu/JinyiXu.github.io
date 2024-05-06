@@ -31,9 +31,9 @@ This assignment progressively explores machine learning, beginning with foundati
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Eventual team project]**_
 
-To be updated later...
+To be updated
 
 ---
 
