@@ -33,7 +33,7 @@ This assignment progressively explores machine learning, beginning with foundati
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+To be updated later...
 
 ---
 
